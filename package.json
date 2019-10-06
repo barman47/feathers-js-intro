@@ -1,0 +1,23 @@
+{
+  "name": "feathersjs-tutorial",
+  "version": "1.0.0",
+  "description": "A practice project using feathersjs, scoket.io, express, and nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "FeathersJS",
+    "expressJS",
+    "NodeJS",
+    "Socket.io"
+  ],
+  "author": "Uzoanya Dominic",
+  "license": "MIT",
+  "dependencies": {
+    "@feathersjs/express": "^4.3.4",
+    "@feathersjs/feathers": "^4.3.4",
+    "@feathersjs/socketio": "^4.3.4",
+    "moment": "^2.24.0"
+  }
+}
